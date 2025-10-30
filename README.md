@@ -1,5 +1,4 @@
 # app-dev
-My first repository
 # My Favorite Series: game of thrones
 **Genre:** fantasy, epic fantasy, thriller 
 *Favorite Character:* anya stark 🧇  
